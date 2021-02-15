@@ -1,5 +1,5 @@
 # Hello, welcome to my GitHub!
-My name is Chris and I'm a 21 year old self-taught developer from Missouri.  I like to learn new things, build incredible programs, refactor them again, and play Quake.
+My name is Chris and I'm a self-taught developer from Missouri.  I like to learn new things, build incredible programs, refactor them again, and play Quake.
 
 ## Current Projects
 ### American Dad Speedruns
